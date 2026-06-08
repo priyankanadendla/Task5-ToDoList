@@ -1,16 +1,16 @@
-Project Overview
+# Project Overview
 
-This is an interactive To-Do List application built using JavaScript for dynamic task management.
+- This is an interactive To-Do List application built using JavaScript for dynamic task management.
 
-Features
+## Features
 
-Add new tasks
-Delete completed tasks
-Real-time UI updates
+- Add new tasks
+- Delete completed tasks
+- Real-time UI updates
 
-Output
+## Output
 
-Users can add and remove tasks dynamically using the interface.
+- Users can add and remove tasks dynamically using the interface.
 
 
 <img width="1366" height="768" alt="task5 1" src="https://github.com/user-attachments/assets/f013540f-048b-47b6-910e-b47b4fc9ed2a" />
